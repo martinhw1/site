@@ -51,7 +51,7 @@ education:
     date_start: 2025-08-15
     date_end: 2026-05-31
 
-  - area: |
+  - area: >
       BS Electrical and Computer Engineering
       Minor in Machine Learning
     institution: Carnegie Mellon University
@@ -71,7 +71,7 @@ work:
   - position: Software Engineer Intern
     company_name: FuriosaAI
     company_url: https://furiosa.ai/
-    company_logo: assets/media/icons/furiosa_logo.jpeg
+    company_logo: assets/media/icons/furiosa_logo.svg
     date_start: 2024-06-03
     date_end: 2024-08-03
     summary: |2-
