@@ -27,7 +27,7 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
+  - icon: assets/media/icons/email.svg
     url: 'martinhwl@cmu.edu'
     label: E-mail Me
   - icon: brands/instagram
@@ -45,13 +45,15 @@ interests:
   - Distributed Systems
 
 education:
-  - area: MS Electrical and Computer Engineering":" AI/ML Systems
+  - area: MS Electrical and Computer Engineering AI/ML Systems
     institution: Carnegie Mellon University
+    institution_logo: assets/media/icons/cmu_logo.jpeg
     date_start: 2025-08-15
     date_end: 2026-05-31
 
   - area: BS Electrical and Computer Engineering
     institution: Carnegie Mellon University
+    institution_logo: assets/media/icons/cmu_logo.jpeg
     date_start: 2019-08-15
     date_end: 2025-05-31
     summary: |
@@ -65,11 +67,11 @@ education:
       - Principles of Imperative Computation
 work:
   - position: Software Engineer Intern
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    company_name: FuriosaAI
+    company_url: https://furiosa.ai/
+    company_logo: assets/media/icons/furiosa_logo.jpeg
+    date_start: 2024-06-03
+    date_end: 2024-08-03
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
