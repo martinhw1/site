@@ -45,7 +45,7 @@ interests:
   - Distributed Systems
 
 education:
-  - area: MS Electrical and Computer Engineering: AI/ML Systems
+  - area: MS Electrical and Computer Engineering":" AI/ML Systems
     institution: Carnegie Mellon University
     date_start: 2025-08-15
     date_end: 2026-05-31
