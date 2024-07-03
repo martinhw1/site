@@ -30,7 +30,7 @@ profiles:
   - icon: "custom/email.svg"
     url: 'mailto:martinhwl@cmu.edu'
     label: E-mail Me
-  - icon: brands/instagram
+  - icon: envelope
     url: https://www.instagram.com/martinlee0519/
   - icon: brands/github
     url: https://github.com/M-LHw00
@@ -59,13 +59,14 @@ education:
     date_end: 2025-05-31
     summary: |
       Major GPA: 3.85/4.0
-    Courses included:
-      - Pattern Recognition for Computer Vision (Grad)
-      - Machine Learning
-      - Machine Learning with Large Datasets
-      - Distributed Systems
-      - Computer Systems
-      - Principles of Imperative Computation
+      Minor: Machine Learning
+      Courses included:
+        - Pattern Recognition for Computer Vision (Grad)
+        - Machine Learning
+        - Machine Learning with Large Datasets
+        - Distributed Systems
+        - Computer Systems
+        - Principles of Imperative Computation
 work:
   - position: Software Engineer Intern
     company_name: FuriosaAI
