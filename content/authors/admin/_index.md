@@ -1,17 +1,14 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Martin Hyungwoo Lee
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Martin
+last_name: Lee
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 😎
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,71 +17,54 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: ECE, ML
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Carnegie Mellon University
+    url: https://www.cmu.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'martinhwl@cmu.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/martinlee0519/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/M-LHw00
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/martinhwl/
 
 interests:
+  - Deep Learning
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computer Vision
+  - Computer Systems
+  - Distributed Systems
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+  - area: MS Electrical and Computer Engineering: AI/ML Systems
+    institution: Carnegie Mellon University
+    date_start: 2025-08-15
+    date_end: 2026-05-31
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BS Electrical and Computer Engineering
+    institution: Carnegie Mellon University
+    date_start: 2019-08-15
+    date_end: 2025-05-31
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Major GPA: 3.85/4.0
+    Courses included:
+      - Pattern Recognition for Computer Vision (Grad)
+      - Machine Learning
+      - Machine Learning with Large Datasets
+      - Distributed Systems
+      - Computer Systems
+      - Principles of Imperative Computation
 work:
-  - position: Director of Cloud Infrastructure
+  - position: Software Engineer Intern
     company_name: GenCoin
     company_url: ''
     company_logo: ''
