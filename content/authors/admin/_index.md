@@ -51,7 +51,8 @@ education:
     date_start: 2025-08-15
     date_end: 2026-05-31
 
-  - area: BS Electrical and Computer Engineering<br>Minor in Machine Learning
+  - area: BS Electrical and Computer Engineering
+    minor: "Minor in Machine Learning"
     institution: Carnegie Mellon University
     institution_logo: assets/media/icons/cmu_logo.jpeg
     date_start: 2019-08-15
