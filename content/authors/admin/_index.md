@@ -59,7 +59,9 @@ education:
     date_end: 2025-05-31
     summary: |-
       Major GPA: 3.85/4.0
+
       Minor: Machine Learning
+      
       Courses included:
         - Pattern Recognition for Computer Vision (Grad)
         - Machine Learning
