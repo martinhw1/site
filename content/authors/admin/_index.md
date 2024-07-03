@@ -27,7 +27,7 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: 'assets/media/icons/email.svg'
+  - icon: '/Users/martinlee/personalSite/personalSite/assets/media/icons/email.svg'
     url: 'mailto:martinhwl@cmu.edu'
     label: E-mail Me
   - icon: brands/instagram
