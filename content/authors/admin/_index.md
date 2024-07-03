@@ -27,10 +27,10 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: "custom/email.svg"
+  - icon: envelope
     url: 'mailto:martinhwl@cmu.edu'
     label: E-mail Me
-  - icon: envelope
+  - icon: brands/instagram
     url: https://www.instagram.com/martinlee0519/
   - icon: brands/github
     url: https://github.com/M-LHw00
@@ -70,8 +70,8 @@ education:
 work:
   - position: Software Engineer Intern
     company_name: FuriosaAI
-    company_url: https://furiosa.ai/
-    company_logo: assets/media/icons/furiosa_logo.svg
+    company_url: 'https://furiosa.ai/'
+    company_logo: 'assets/media/icons/furiosa_logo.svg'
     date_start: 2024-06-03
     date_end: 2024-08-03
     summary: |2-
