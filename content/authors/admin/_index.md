@@ -27,7 +27,7 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: '/Users/martinlee/personalSite/personalSite/assets/media/icons/email.svg'
+  - icon: envelope
     url: 'mailto:martinhwl@cmu.edu'
     label: E-mail Me
   - icon: brands/instagram
@@ -45,39 +45,49 @@ interests:
   - Distributed Systems
 
 education:
-  - area: "MS Electrical and Computer Engineering: AI/ML Systems"
+  courses:
+  - course: "MS Electrical and Computer Engineering: AI/ML Systems"
     institution: Carnegie Mellon University
-    institution_logo: assets/media/icons/cmu_logo.jpeg
+    institution_url: "https://www.cmu.edu"
+    company_logo: cmu
+    logo_url: "assets/media/icons/cmu_logo.jpeg"
+    year: 2026
     date_start: 2025-08-15
     date_end: 2026-05-31
 
-  - area: BS Electrical and Computer Engineering
-    minor: "Minor in Machine Learning"
+  - course: BS Electrical and Computer Engineering
     institution: Carnegie Mellon University
-    institution_logo: assets/media/icons/cmu_logo.jpeg
+    institution_url: "https://www.cmu.edu"
+    company_logo: cmu
+    logo_url: "assets/media/icons/cmu_logo.jpeg"
+    year: 2025
     date_start: 2019-08-15
     date_end: 2025-05-31
-    summary: |
+    description: |
       Major GPA: 3.85/4.0
-    Courses included:
+      Minor: Machine Learning
+      
+      Courses included:
       - Pattern Recognition for Computer Vision (Grad)
       - Machine Learning
       - Machine Learning with Large Datasets
       - Distributed Systems
       - Computer Systems
       - Principles of Imperative Computation
-work:
-  - position: Software Engineer Intern
-    company_name: FuriosaAI
-    company_url: https://furiosa.ai/
-    company_logo: assets/media/icons/furiosa_logo.svg
+experience:
+  - title: Software Engineer Intern
+    company: FuriosaAI
+    company_url: "https://furiosa.ai/"
+    company_logo: "assets/media/icons/furiosa_logo.jpeg"
+    location: Location (if applicable)
     date_start: 2024-06-03
     date_end: 2024-08-03
-    summary: |2-
+    description: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      
+      * lorem ipsum dolor sit amet, consectetur adipiscing elit
+      * lorem ipsum dolor sit amet, consectetur adipiscing elit
+      * lorem ipsum dolor sit amet, consectetur adipiscing elit
   # - position: Backend Software Engineer
   #   company_name: X
   #   company_url: ''
