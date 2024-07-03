@@ -57,7 +57,7 @@ education:
     institution_logo: assets/media/icons/cmu_logo.jpeg
     date_start: 2019-08-15
     date_end: 2025-05-31
-    summary: |
+    summary: |-
       Major GPA: 3.85/4.0
       Minor: Machine Learning
       Courses included:
