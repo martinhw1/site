@@ -27,8 +27,8 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: assets/media/icons/email.svg
-    url: 'martinhwl@cmu.edu'
+  - icon: 'assets/media/icons/email.svg'
+    url: 'mailto:martinhwl@cmu.edu'
     label: E-mail Me
   - icon: brands/instagram
     url: https://www.instagram.com/martinlee0519/
@@ -45,7 +45,7 @@ interests:
   - Distributed Systems
 
 education:
-  - area: MS Electrical and Computer Engineering AI/ML Systems
+  - area: "MS Electrical and Computer Engineering AI/ML Systems"
     institution: Carnegie Mellon University
     institution_logo: assets/media/icons/cmu_logo.jpeg
     date_start: 2025-08-15
