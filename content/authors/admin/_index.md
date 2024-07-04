@@ -61,7 +61,7 @@ education:
       Major GPA: 3.85/4.0
 
       Minor: Machine Learning
-      
+
       Courses included:
         - Pattern Recognition for Computer Vision (Grad)
         - Machine Learning
@@ -169,4 +169,8 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! I'm a senior at Carnegie Mellon University, pursuing a degree in Electrical and Computer Engineering with a minor in Machine Learning. 
+
+My interest lie at the intersection of cutting-edge technologies, namely Deep Learning, Distributed Systems, and Computer Vision, fascinated by their potential to solve complex problems across various domains
+
+Resilience defines my character, along with my passion for technology and a strong analytical mindset. These traits drive me to tackle challenging projects and adapt to technological changes. I constantly seek opportunities to expand my knowledge and skills, aiming to make a meaningful impact in technology and inspire innovation in others.
