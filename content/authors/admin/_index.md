@@ -17,7 +17,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Student studying ECE, ML
+role: ECE, ML @ CMU
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -69,19 +69,40 @@ education:
         - Distributed Systems
         - Computer Systems
         - Principles of Imperative Computation
-work:
-  - position: Software Engineer Intern
-    company_name: FuriosaAI
+  # - title: "Software Engineer Intern"
+  #   company: NEXTLab
+  #   company_url: "http://www.nextlab.ai/en/"
+  #   company_logo: NEXTLab-logo
+  #   location: Seoul, South Korea
+  #   date_start: "2022-10-04"
+  #   date_end: "2022-12-31"
+  #   description: |2-
+  #       Advisor: IAS(Intelligent Automation Service) team
+  #       Project: PlantyM - NewsPaper OCR
+        
+  #       * AI-based service development (Deep Learning AI modules, CV, and NLP)
+  #       * Event driven architecture code @ AWS Lambda
+  #       * Serverless architecture @ AWS cloud
+  #       * RESTful API @ Node.js
+  #       * Serverless workflows @ AWS Step Functions
+  #       * Building, testing, and deploying @ Docker
+  #       * Enhancing and evaluating AI modules
+  #       * Creation and implementation of multiple algorithms and data structures
+
+experience:
+  - title: Software Engineer Intern
+    company: FuriosaAI
     company_url: 'https://furiosa.ai/'
     company_logo: 'assets/media/icons/furiosa_logo.svg'
+    location: Seoul, South Korea
     date_start: 2024-06-03
     date_end: 2024-08-03
-    summary: |2-
+    description: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  # - position: Backend Software Engineer
+  # - position: Squad Leader / Peer Counselor / Sergeant
   #   company_name: X
   #   company_url: ''
   #   company_logo: ''
@@ -169,8 +190,8 @@ awards:
 
 ## About Me
 
-Hi! I'm a senior at Carnegie Mellon University, pursuing a degree in Electrical and Computer Engineering with a minor in Machine Learning. 
+Hi! I'm a senior at Carnegie Mellon University, pursuing a B.S. in Electrical and Computer Engineering with a minor in Machine Learning. 
 
-My interest lie at the intersection of cutting-edge technologies, namely Deep Learning, Distributed Systems, and Computer Vision, fascinated by their potential to solve complex problems across various domains
+My interest lie at the intersection of cutting-edge technologies, namely Deep Learning, Distributed Systems, and Computer Vision, fascinated by their potential to solve complex problems across various domains.
 
-Resilience defines my character, along with my passion for technology and a strong analytical mindset. These traits drive me to tackle challenging projects and adapt to technological changes. I constantly seek opportunities to expand my knowledge and skills, aiming to make a meaningful impact in technology and inspire innovation in others.
+Resilience defines my character, along with my passion for technology and a strong detail-oriented mindset. These traits drive me to tackle challenging projects and enjoy the process. I constantly seek opportunities to expand my knowledge and skills, aiming to make a meaningful impact in technology and inspire innovation in others.
